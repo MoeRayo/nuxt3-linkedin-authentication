@@ -1,4 +1,4 @@
-# linkedin-authentication-with-nuxt
+# Linkedin Authentication with Nuxt
 
 ## Build Setup
 
